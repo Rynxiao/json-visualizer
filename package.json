@@ -20,7 +20,8 @@
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
-    "eject": "react-app-rewired eject"
+    "eject": "react-app-rewired eject",
+    "copyFiles": "cp -R ./build/* ./docs"
   },
   "eslintConfig": {
     "extends": [
