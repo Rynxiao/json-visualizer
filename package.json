@@ -46,7 +46,7 @@
       "/node_modules/(?!antd|@ant-design|rc-.+?|@babel/runtime).+(js|jsx)$"
     ]
   },
-  "homepage" : "https://rynxiao.com",
+  "homepage" : "https://rynxiao.com/json-visualizer",
   "devDependencies": {
     "customize-cra": "^1.0.0",
     "less": "^3.12.2",
